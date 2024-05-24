@@ -1,6 +1,7 @@
 package tictactoe.model;
 
-import tictactoe.strategy.GameWinningStrategy;
+import tictactoe.model.enums.GameState;
+import tictactoe.strategy.game.GameWinningStrategy;
 
 import java.util.List;
 

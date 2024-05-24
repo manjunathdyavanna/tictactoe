@@ -1,4 +1,4 @@
-package tictactoe.strategy;
+package tictactoe.strategy.game;
 
 import tictactoe.model.Board;
 import tictactoe.model.Cell;

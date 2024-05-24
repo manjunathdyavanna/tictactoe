@@ -3,7 +3,9 @@ package tictactoe.model;
 import lombok.Getter;
 import lombok.Setter;
 import tictactoe.factory.BotPlayingStrategyFactory;
-import tictactoe.strategy.BotPlayingStrategy;
+import tictactoe.model.enums.BotDifficultyLevel;
+import tictactoe.model.enums.PlayerType;
+import tictactoe.strategy.bot.BotPlayingStrategy;
 
 @Getter
 @Setter

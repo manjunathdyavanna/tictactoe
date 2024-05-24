@@ -2,8 +2,7 @@ package tictactoe.model;
 
 import lombok.Getter;
 import lombok.Setter;
-
-import java.util.Scanner;
+import tictactoe.model.enums.PlayerType;
 
 @Getter
 @Setter

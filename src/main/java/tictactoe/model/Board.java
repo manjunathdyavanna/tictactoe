@@ -1,8 +1,8 @@
 package tictactoe.model;
 
-import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
+import tictactoe.model.enums.CellState;
 
 import java.util.ArrayList;
 import java.util.List;

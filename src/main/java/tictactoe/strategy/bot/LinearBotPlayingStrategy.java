@@ -1,6 +1,7 @@
-package tictactoe.strategy;
+package tictactoe.strategy.bot;
 
 import tictactoe.model.*;
+import tictactoe.model.enums.CellState;
 
 public class LinearBotPlayingStrategy implements BotPlayingStrategy{
 

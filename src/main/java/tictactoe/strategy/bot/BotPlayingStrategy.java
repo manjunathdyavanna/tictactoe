@@ -1,4 +1,4 @@
-package tictactoe.strategy;
+package tictactoe.strategy.bot;
 
 import tictactoe.model.Board;
 import tictactoe.model.Move;
